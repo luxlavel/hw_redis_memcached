@@ -14,8 +14,7 @@
 
 `Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен`
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+![screenshot task 2](https://github.com/luxlavel/hw_redis_memcached/blob/master/screenshots_hw_redis_memcached/screenshot_1.png)
 
 ---
 
